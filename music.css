@@ -125,3 +125,50 @@
 .section2-img{
     padding: 20px 0;
 }
+
+/* SECTION 3 */
+
+.section3{
+    width: 100%;
+    background: #fff;
+}
+
+.section3__h1{
+    font-size: 32px;
+    padding: 22px 0;
+    margin-top: 50px;
+    text-align: center;
+    color: #333333;
+}
+
+.section3__p{
+    font-size: 20.8px;
+    line-height: 2rem;
+    padding: 10px 20px;
+    margin: 0 50px;
+    display: block;
+    text-align: center;
+    color: #333333;
+}
+
+.section3-btn{
+    font-size: 16px;
+    display: block;
+    margin: 16px auto;
+    padding: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #103063;
+    color: #fff;
+}
+
+.section3-btn:hover{
+    background-color: #3b7de6;
+}
+
+.section3__imgcontainer{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
